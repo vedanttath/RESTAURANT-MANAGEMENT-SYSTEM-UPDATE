@@ -141,15 +141,6 @@ GET /api/analytics/dashboard  # Dashboard metrics
 GET /api/analytics/revenue    # Revenue analytics
 ```
 
-## 🎨 Design System
-
-### Color Palette
-
-```css
---primary-blue: #3b82f6 --success-green: #10b981 --warning-orange: #f59e0b
-  --danger-red: #ef4444 --text-primary: #1f2937 --bg-secondary: #f6f8fa;
-```
-
 ### Components
 
 - Metric cards with icons
@@ -257,18 +248,8 @@ The system comes pre-loaded with:
 - **30 restaurant tables** with various statuses
 - **Sample orders** and analytics data
 
-## 🔮 Future Enhancements
 
-- Payment gateway integration
-- Inventory management system
-- Staff scheduling and payroll
-- Customer loyalty programs
-- Advanced reporting and analytics
-- Multi-restaurant support
 
-## 📄 License
-
-MIT License - see LICENSE file for details
 
 ## 🤝 Contributing
 
@@ -278,10 +259,3 @@ MIT License - see LICENSE file for details
 4. Push to the branch
 5. Open a Pull Request
 
-## 📞 Support
-
-For support, create an issue in the repository or contact the development team.
-
----
-
-**Built with ❤️ for modern restaurant operations**
