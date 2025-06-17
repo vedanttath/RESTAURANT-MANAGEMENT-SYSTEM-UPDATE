@@ -1,3 +1,8 @@
+Use the following PowerShell command to bypass execution policy restrictions and run npm install, which can help fix most common installation errors in a Node.js project:"
+
+powershell -ExecutionPolicy Bypass -Command "npm install"
+
+
 # 🍽️ Restaurant Management & POS System
 
 A comprehensive, pixel-perfect restaurant management and point-of-sale (POS) system built with React, TypeScript, Node.js, Express, and MongoDB. Features both desktop analytics dashboard and mobile-optimized ordering interface.
