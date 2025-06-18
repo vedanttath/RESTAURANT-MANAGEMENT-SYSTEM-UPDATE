@@ -1,6 +1,4 @@
-# Fusion Starter
 
-The Fusion Starter is a modern, production-ready template for building full-stack React applications using react-router-dom in SPA mode.
 
 ## Core Framework & Technologies
 
